@@ -273,6 +273,7 @@ public class JavaBST
 		
 		int max = maxBinTree(root);
 		System.out.println(max);
+		System.out.println(max);
 	}
 
 }
